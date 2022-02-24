@@ -1,4 +1,4 @@
-# SimpleSpringApp
+## SimpleSpringApp
 
 In this project I'm making my first tests using Spring framework.
 
