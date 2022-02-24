@@ -1,4 +1,4 @@
-package com.firstProject.springbootweb;
+package test1.springbootweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

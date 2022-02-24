@@ -1,4 +1,4 @@
-package com.firstProject.springbootweb;
+package test1.springbootweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
